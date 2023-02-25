@@ -57,3 +57,6 @@ The program will calculate and print out the total stock value for all shoes. Fo
 
 ## **Get Shoes On Sale**
 The program will automatically identify the shoes whith the largest quantity in stock and put it on sale.
+
+---
+_Created by Jemerik214_
